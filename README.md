@@ -15,7 +15,7 @@ Install the required packages:
 pip install selenium Pillow
 ```
 
-You will also need to download the appropriate [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) for your version of Chrome.
+You will also need to download the appropriate [ChromeDriver](https://sites.google.com/chromium.org/driver/) for your version of Chrome.
 
 ## Capturing Twitter Cookies
 
