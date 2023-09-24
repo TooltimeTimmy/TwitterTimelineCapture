@@ -1,4 +1,4 @@
-# Twitter Timeline Screenshot Stitcher
+# Twitter Timeline Stitcher
 
 This script captures screenshots of a user's Twitter timeline and stitches them together into a single image. It's useful for archiving a user's Twitter feed at a given point in time.
 
