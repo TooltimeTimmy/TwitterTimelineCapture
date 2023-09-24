@@ -41,7 +41,7 @@ To run this script, you'll need to provide it with your Twitter session cookies.
 1. Navigate to the script's directory:
 
 ```bash
-cd path_to_script_directory
+cd TwitterTimelineCapture
 ```
 
 2. Run the script:
