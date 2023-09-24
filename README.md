@@ -11,9 +11,9 @@ This script captures screenshots of a user's Twitter timeline and stitches them 
 
 Install the required packages:
 
-\```bash
+```bash
 pip install selenium Pillow
-\```
+```
 
 You will also need to download the appropriate [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) for your version of Chrome.
 
@@ -39,21 +39,21 @@ To run this script, you'll need to provide it with your Twitter session cookies.
 
 1. Navigate to the script's directory:
 
-\```bash
+```bash
 cd path_to_script_directory
-\```
+```
 
 2. Run the script:
 
-\```bash
+```bash
 python twitter_timeline_stitcher.py --username <YOUR_TWITTER_USERNAME>
-\```
+```
 
 For debugging and more options, see:
 
-\```bash
+```bash
 python twitter_timeline_stitcher.py --help
-\```
+```
 
 ## Note
 
