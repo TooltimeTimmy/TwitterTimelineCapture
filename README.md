@@ -56,6 +56,8 @@ For debugging and more options, see:
 python stitcher.py --help
 ```
 
+![combined_timeline_example](combined_timeline.png)
+
 ## Note
 
 Web scraping is subject to legal and ethical considerations. Ensure you have the right permissions and are in compliance with Twitter's terms of use and robots.txt. Always be respectful of the platforms you're interacting with.
