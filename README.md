@@ -14,8 +14,9 @@ Install the required packages:
 ```bash
 pip install selenium Pillow
 ```
+If you are having trouble with the script it is likely an issue with your chrome installation
 
-You will also need to download the appropriate [ChromeDriver](https://sites.google.com/chromium.org/driver/) for your version of Chrome.
+You might need to download the appropriate [ChromeDriver](https://sites.google.com/chromium.org/driver/) for your version of Chrome.
 
 ## Capturing Twitter Cookies
 
