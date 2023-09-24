@@ -46,13 +46,13 @@ cd path_to_script_directory
 2. Run the script:
 
 ```bash
-python twitter_timeline_stitcher.py --username <YOUR_TWITTER_USERNAME>
+python stitcher.py --username <YOUR_TWITTER_USERNAME>
 ```
 
 For debugging and more options, see:
 
 ```bash
-python twitter_timeline_stitcher.py --help
+python stitcher.py --help
 ```
 
 ## Note
